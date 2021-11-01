@@ -1,7 +1,7 @@
 {
-    "title": "Stackbit Exto Theme",
+    "title": "Willy Test",
     "path_prefix": "/",
-    "color_scheme": "light",
+    "color_scheme": "dark",
     "accent_color": "pink",
     "header": {
         "title": "willy test",
@@ -20,11 +20,6 @@
             {
                 "label": "Blog",
                 "url": "/blog/",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide/",
                 "style": "link"
             },
             {
