@@ -7,10 +7,7 @@ sections:
     title: Hola soy willy esto es un test
     content: |
       description test
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
