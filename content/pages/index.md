@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Test
+    title: TestHola soy willy esto es un test
     content: |
       description test
     actions: []
